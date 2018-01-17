@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  Swift Fun
 //
-//  Created by Jacob Clayton on 1/16/18.
-//  Copyright © 2018 Jacob Clayton. All rights reserved.
+//  Created by Jacob Clayton on 1/16/18..
+//  Copyright © 2018 Jacob Clayton. All rights reserved....
 //
 // hello
 
