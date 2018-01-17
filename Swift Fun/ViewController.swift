@@ -5,6 +5,7 @@
 //  Created by Jacob Clayton on 1/16/18.
 //  Copyright © 2018 Jacob Clayton. All rights reserved.
 //
+// hello
 
 import UIKit
 
@@ -14,8 +15,6 @@ class ViewController: UIViewController {
     @IBOutlet weak var myLabel: UILabel!
     
     @IBAction func buttonTapped(_ sender: Any) {
-        
-        
         
         buttonCount = buttonCount + 1
         
